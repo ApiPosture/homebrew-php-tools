@@ -5,7 +5,7 @@ class ApiposturePro < Formula
 
   url "https://github.com/ApiPosture/ApiPosturePro.Php/releases/download/v#{version}/apiposture-pro.phar"
   # sha256 is updated automatically by the release workflow
-  sha256 "9fc1e17a36c33f2987d048e0396a95eb50b4297437442c1b735e218738016136"
+  sha256 "b8997c85fb39c0145813cb2bace0f50172653a775fefd6b931863abfe57c6b7a"
 
   depends_on "php"
 
