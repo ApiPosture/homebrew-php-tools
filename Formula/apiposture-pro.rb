@@ -1,11 +1,11 @@
 class ApiposturePro < Formula
   desc "Pro security scanning for PHP APIs – OWASP Top 10, secrets, diff, risk scoring"
   homepage "https://github.com/ApiPosture/ApiPosturePro.Php"
-  version "1.0.12"
+  version "1.0.13"
 
   # url and sha256 are replaced by release.yml when a vX.Y.Z tag is pushed. Do not edit manually.
-  url "https://raw.githubusercontent.com/ApiPosture/homebrew-php-tools/main/releases/apiposture-pro-v1.0.12.phar"
-  sha256 "df4f2e0971a0a126f6dff64c4649d91944d9c22ebfb3273279474bb816106204"
+  url "https://raw.githubusercontent.com/ApiPosture/homebrew-php-tools/main/releases/apiposture-pro-v1.0.13.phar"
+  sha256 "764aa3192b3a7e8e10067a4f98c8cf78a8e690980dac9b638545f9c3348c7988"
 
   depends_on "php"
 
